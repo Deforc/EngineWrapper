@@ -1,7 +1,6 @@
 #ifndef ENGINEWRAPPER_SUBJECT_H
 #define ENGINEWRAPPER_SUBJECT_H
 
-
 #include <math.h>
 
 class Subject {
